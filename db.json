@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "test",
+      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "test",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Carmen_-_illustration_by_Luc_for_Journal_Amusant_1875.jpg/232px-Carmen_-_illustration_by_Luc_for_Journal_Amusant_1875.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "test",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Carmen_-_illustration_by_Luc_for_Journal_Amusant_1875.jpg/232px-Carmen_-_illustration_by_Luc_for_Journal_Amusant_1875.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Andy's Favorite",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Jessie_%28Toy_Story%29.png",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
